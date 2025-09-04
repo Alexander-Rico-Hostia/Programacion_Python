@@ -4,6 +4,8 @@ class Persona:
     Edad=0
     altura=0
     genero=""
+    estado_civil=""
+    
 
     def caminar(self):
         return f"Hola soy {self.nombre} y Me encuentro caminando..."
